@@ -1,0 +1,6 @@
+All puzzles here were taken from:
+
+http://www.printable-sudoku-puzzles.com/wfiles/
+
+I should note that they have 6 categories, but their #5 
+returned a 404 error, so I just skipped a level here!
